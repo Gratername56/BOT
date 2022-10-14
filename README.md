@@ -51,8 +51,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs && pkg install ffmpeg && pkg install git && pkg install libwep && pkg install imagemagick
-git clone https://github.com/Ronzz-Ofc/VelzzyBOT-MD
-cd V4
+git clone https://github.com/Gratername56/BOT
+cd BOT
 pkg install yarn
 yarn
 npm start
